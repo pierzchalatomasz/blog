@@ -1,6 +1,6 @@
 W dzisiejszym wpisie chciałbym przedstawić node.js. Jest to środowisko uruchomieniowe dla języka JavaScript oparte na silniku Chrome V8 pozwalające na wykonywanie aplikacji w JS poza przeglądarką.
 
-Przykładowy serwer wykorzystujący **Express** nasłuchujący na porcie 3000:
+Przykładowy serwer wykorzystujący **Express**, nasłuchujący na porcie 3000:
 
 ```javascript
   const express = require('express');
@@ -13,7 +13,7 @@ Przykładowy serwer wykorzystujący **Express** nasłuchujący na porcie 3000:
   app.listen(3000);
 ```
 
-Na każde zapytanie serwer odpowie wiadomością *Hello!*.
+Na każde zapytanie serwer odpowie wiadomością *Hello!*
 
 #### Zobacz też:
 Więcej o node.js:
