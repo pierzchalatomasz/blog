@@ -23,7 +23,7 @@ export default class Hello extends React.Component {
 }
 ```
 
-Poniższy komponent wyświetli komponent **Hello** z propsem **name** o wartości *"Bartek"*.
+Poniższy komponent wyświetli komponent *Hello* z propsem *name* o wartości *"Bartek"*.
 
 ```javascript
 import React from 'react';
